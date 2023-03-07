@@ -74,7 +74,7 @@ There are some limitation
 
 `Example:`
 
-![Alt Text](demos/uig_2.png)
+![Alt Text](demos/uig_limit.png)
 
 
 ## Most Important Note:
