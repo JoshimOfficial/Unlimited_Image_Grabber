@@ -11,7 +11,8 @@ Open-source projects like Unlimited Image Grabber provide benefits such as modul
 
 `Image Grabber:`
 
-![Alt Text](demos/img_grabber.gif)
+![Alt Text](demos/uig_1.png)
+![Alt Text](demos/uig_2.png)
 
 
 
