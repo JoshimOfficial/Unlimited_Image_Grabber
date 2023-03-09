@@ -36,17 +36,17 @@ set as
 And now manually insert a data url to that `webfixer` as your current `localhost` project `location` like:
 
 - if you run the project from this location:
-http://localhost/downloader/FIPY_downloader/
+http://localhost/downloader/unlimitedImage/
 
 
 - then you should insert data to `webfixer` in `url` as:
-http://localhost/downloader/FIPY_downloader
+http://localhost/downloader/unlimitedImage
 
 
 
 - Note: Never put the slashes `/` to the end like: 
 
-http://localhost/tailwind/10/test/FIPY_downloader/
+http://localhost/tailwind/10/test/unlimitedImage/
 
 This is wrong way.
 
@@ -54,7 +54,7 @@ This is wrong way.
 
 - You should put the url like:
 
-http://localhost/tailwind/10/test/FIPY_downloader
+http://localhost/tailwind/10/test/unlimitedImage
 
 Note: Do not set any password. To see more about database go to the `conn.php` file for comfiguration.
 You can change `conn.php` and `setDomain.php` file for custom database.
